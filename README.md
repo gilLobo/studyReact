@@ -1,4 +1,4 @@
-## Instalar Dependências
+## Instalar dependências e iniciar server
 
 Na raiz do projeto
 
